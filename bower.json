@@ -1,0 +1,19 @@
+{
+  "name": "registration",
+  "version": "0.0.1",
+  "authors": [
+    "liumoujie <liumj6@asiainfo.com>"
+  ],
+  "description": "registration",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
