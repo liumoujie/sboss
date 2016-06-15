@@ -1,0 +1,5 @@
+挂号的界面元素
+=========================
+挂号服务的界面显示的图标等相关资源
+
+在sboss目录执行 bower install registration --save

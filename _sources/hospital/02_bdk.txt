@@ -1,0 +1,11 @@
+挂号的后台功能
+=========================
+挂号服务的后台相关功能
+
+在sboss目录执行 npm install sboss_bdk_registration --save
+
+在 app.js 加入
+
+var sboss = require('sboss_bdk_registration');
+
+app.use('/sboss',sboss);
